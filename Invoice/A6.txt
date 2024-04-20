@@ -1,0 +1,8 @@
+Ticket Information:
+----------------------------------------
+Row: A | Seat: 6
+Price: £150
+Name: F
+Surname: F
+Email: @gmail.com
+----------------------------------------

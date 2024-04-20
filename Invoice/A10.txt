@@ -1,0 +1,8 @@
+Ticket Information:
+----------------------------------------
+Row: A | Seat: 10
+Price: £180
+Name: Hello
+Surname: World
+Email: hello@gmail.com
+----------------------------------------
